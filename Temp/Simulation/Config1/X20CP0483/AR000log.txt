@@ -1,0 +1,21 @@
+Thu Aug 29 19:23:02 2024
+COPYRIGHT (C) B&R Industrial Automation GmbH
+
+Thu Aug 29 19:23:02 2024
+No ARsim registration found!
+
+Thu Aug 29 19:23:02 2024
+InstanceName: 0000001f0da26c16
+
+Thu Aug 29 19:23:02 2024
+WorkingDirectory: C:\Users\Rafael\Documents\AS\BancadaBR\Temp\Simulation\Config1\X20CP0483\
+
+Thu Aug 29 19:23:02 2024
+COMMAND_COLDSTART
+
+Thu Aug 29 19:23:04 2024
+Version: B4.93
+
+Thu Aug 29 20:38:04 2024
+COMMAND_TERMINATE
+

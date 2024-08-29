@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?AutomationStudio FileVersion="4.9"?>
+<BR.AS.HardwareTopology>
+  <TimeStamps>
+    <TimeStamp LogicalPath="Config1.Hardware.hw" LastWriteTime="08/27/2024 19:56:09" />
+  </TimeStamps>
+  <Modules>
+    <Module Name="X20BB52" Type="X20BB52" X="-4" Y="3" />
+    <Module Name="X20PS9600" Type="X20PS9600" X="21" Y="3" />
+    <Module Name="X20TB12" Type="X20TB12" X="21" Y="30" />
+    <Module Name="X20CP0483" Type="X20CP0483" X="-4" Y="3" />
+    <Module Name="8V1016.001-2" Type="8V1016.001-2" X="66" Y="3" />
+    <Module Name="8AC130.60-1" Type="8AC130.60-1" X="91.2" Y="118.5" />
+    <Module Name="8AC120.60-1" Type="8AC120.60-1" X="80" Y="118.5" />
+    <Module Name="8AC114.60-2" Type="8AC114.60-2" X="68.8" Y="118.5" />
+    <Module Name="8LSA35.EA030D000-0" Type="8LSA35.EA030D000-0" X="154" Y="102" />
+  </Modules>
+  <Links>
+    <Link From="8AC114.60-2" To="X20CP0483" FromPort="PLK1" ToPort="IF3" IsRoutedByUser="False">
+      <Point X="74.90001" Y="146.3" />
+      <Point X="74.90001" Y="146.3" />
+      <Point X="65.90001" Y="146.3" />
+      <Point X="-10" Y="146.3" />
+      <Point X="-10" Y="76" />
+      <Point X="-5" Y="76" />
+      <Point X="10" Y="76" />
+      <Point X="10" Y="76" />
+    </Link>
+    <Link From="8LSA35.EA030D000-0" To="8V1016.001-2" FromPort="MT" ToPort="MT1" IsRoutedByUser="False">
+      <Point X="203.5" Y="108.100006" />
+      <Point X="203.5" Y="108.100006" />
+      <Point X="203.5" Y="101.100006" />
+      <Point X="203.5" Y="81" />
+      <Point X="140" Y="81" />
+      <Point X="140" Y="178.5" />
+      <Point X="108.3" Y="178.5" />
+      <Point X="97.3" Y="178.5" />
+      <Point X="97.3" Y="178.5" />
+    </Link>
+    <Link From="8AC120.60-1" To="8LSA35.EA030D000-0" FromPort="EC" ToPort="EC" IsRoutedByUser="True">
+      <Point X="86.1000061" Y="156.1" />
+      <Point X="86.1000061" Y="156.1" />
+      <Point X="86.1000061" Y="183.1" />
+      <Point X="86.1000061" Y="188" />
+      <Point X="120" Y="188" />
+      <Point X="120" Y="72" />
+      <Point X="175.5" Y="72" />
+      <Point X="175.5" Y="101.100006" />
+      <Point X="175.5" Y="108.100006" />
+      <Point X="175.5" Y="108.100006" />
+    </Link>
+  </Links>
+  <InfoElements />
+</BR.AS.HardwareTopology>

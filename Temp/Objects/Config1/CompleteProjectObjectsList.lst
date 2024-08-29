@@ -1,0 +1,567 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.12.2.93"?>
+<Objects>
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Package.pkg"
+    LogicalPath=""
+    Type="Package.ParentUnknown"
+    LastWriteTime="133693603379442521" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Temp\Includes\AS_TempDecl\Config1\GlobalComponents\McElements.var"
+    LogicalPath="McElements.var"
+    Type="File"
+    LastWriteTime="133693593548583851"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Global.typ"
+    LogicalPath="Global.typ"
+    Type="File"
+    LastWriteTime="133692713380967408"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Global.var"
+    LogicalPath="Global.var"
+    Type="File"
+    LastWriteTime="133692713381017420"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\Package.pkg"
+    LogicalPath="Libraries"
+    Type="Package"
+    LastWriteTime="133694452233514628" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\operator\binary.lby"
+    LogicalPath="Libraries.operator"
+    Type="Library"
+    LastWriteTime="133692713387837641" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\operator\operator.fun"
+    LogicalPath="Libraries.operator.operator.fun"
+    Type="File"
+    LastWriteTime="133692713387804505"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\operator\operator.typ"
+    LogicalPath="Libraries.operator.operator.typ"
+    Type="File"
+    LastWriteTime="133692713387826589"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\operator\operator.var"
+    LogicalPath="Libraries.operator.operator.var"
+    Type="File"
+    LastWriteTime="133692713387837641"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\runtime\binary.lby"
+    LogicalPath="Libraries.runtime"
+    Type="Library"
+    LastWriteTime="133692713389427486" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\runtime\runtime.fun"
+    LogicalPath="Libraries.runtime.runtime.fun"
+    Type="File"
+    LastWriteTime="133692713389403279"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\runtime\runtime.typ"
+    LogicalPath="Libraries.runtime.runtime.typ"
+    Type="File"
+    LastWriteTime="133692713389415944"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\runtime\runtime.var"
+    LogicalPath="Libraries.runtime.runtime.var"
+    Type="File"
+    LastWriteTime="133692713389427486"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\astime\binary.lby"
+    LogicalPath="Libraries.astime"
+    Type="Library"
+    LastWriteTime="133692713391089686" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\astime\astime.fun"
+    LogicalPath="Libraries.astime.astime.fun"
+    Type="File"
+    LastWriteTime="133692713391062905"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\astime\astime.typ"
+    LogicalPath="Libraries.astime.astime.typ"
+    Type="File"
+    LastWriteTime="133692713391076414"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\astime\astime.var"
+    LogicalPath="Libraries.astime.astime.var"
+    Type="File"
+    LastWriteTime="133692713391089686"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\AsIecCon\binary.lby"
+    LogicalPath="Libraries.AsIecCon"
+    Type="Library"
+    LastWriteTime="133692713392803892" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\AsIecCon\AsIecCon.fun"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.fun"
+    Type="File"
+    LastWriteTime="133692713392783338"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\AsIecCon\AsIecCon.typ"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.typ"
+    Type="File"
+    LastWriteTime="133692713392793817"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\AsIecCon\AsIecCon.var"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.var"
+    Type="File"
+    LastWriteTime="133692713392803892"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\McBase\binary.lby"
+    LogicalPath="Libraries.McBase"
+    Type="Library"
+    LastWriteTime="133692721434158328" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\McBase\McBase.typ"
+    LogicalPath="Libraries.McBase.McBase.typ"
+    Type="File"
+    LastWriteTime="133692721434129000"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\McBase\McBase.fun"
+    LogicalPath="Libraries.McBase.McBase.fun"
+    Type="File"
+    LastWriteTime="133692721434138328"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\McBase\McBase.var"
+    LogicalPath="Libraries.McBase.McBase.var"
+    Type="File"
+    LastWriteTime="133692721434148659"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\McBase\McBaseCfg.typ"
+    LogicalPath="Libraries.McBase.McBaseCfg.typ"
+    Type="File"
+    LastWriteTime="133692721434158328"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\MpBase\Binary.lby"
+    LogicalPath="Libraries.MpBase"
+    Type="Library"
+    LastWriteTime="133692721434460163" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\MpBase\MpBase.var"
+    LogicalPath="Libraries.MpBase.MpBase.var"
+    Type="File"
+    LastWriteTime="133692721434376650"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\MpBase\MpBase.typ"
+    LogicalPath="Libraries.MpBase.MpBase.typ"
+    Type="File"
+    LastWriteTime="133692721434386680"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\MpBase\MpBase.fun"
+    LogicalPath="Libraries.MpBase.MpBase.fun"
+    Type="File"
+    LastWriteTime="133692721434440181"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\MpBase\Common_EventLog.tmx"
+    LogicalPath="Libraries.MpBase.Common_EventLog.tmx"
+    Type="File"
+    LastWriteTime="133692721434450198"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\MpAxis\binary.lby"
+    LogicalPath="Libraries.MpAxis"
+    Type="Library"
+    LastWriteTime="133693593502700599" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\MpAxis\MpAxis.fun"
+    LogicalPath="Libraries.MpAxis.MpAxis.fun"
+    Type="File"
+    LastWriteTime="133693593502686420"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\MpAxis\MpAxis.typ"
+    LogicalPath="Libraries.MpAxis.MpAxis.typ"
+    Type="File"
+    LastWriteTime="133693593502686420"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\MpAxis\MpAxisError.typ"
+    LogicalPath="Libraries.MpAxis.MpAxisError.typ"
+    Type="File"
+    LastWriteTime="133693593502700599"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\McAxis\binary.lby"
+    LogicalPath="Libraries.McAxis"
+    Type="Library"
+    LastWriteTime="133693593503025108" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\McAxis\McAxis.typ"
+    LogicalPath="Libraries.McAxis.McAxis.typ"
+    Type="File"
+    LastWriteTime="133693593502975104"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\McAxis\McAxis.fun"
+    LogicalPath="Libraries.McAxis.McAxis.fun"
+    Type="File"
+    LastWriteTime="133693593502995126"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\McAxis\McAxis.var"
+    LogicalPath="Libraries.McAxis.McAxis.var"
+    Type="File"
+    LastWriteTime="133693593503005090"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\McAxis\McAxisCfg.typ"
+    LogicalPath="Libraries.McAxis.McAxisCfg.typ"
+    Type="File"
+    LastWriteTime="133693593503025108"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\McAcpAx\binary.lby"
+    LogicalPath="Libraries.McAcpAx"
+    Type="Library"
+    LastWriteTime="133693593521885899" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\McAcpAx\McAcpAx.typ"
+    LogicalPath="Libraries.McAcpAx.McAcpAx.typ"
+    Type="File"
+    LastWriteTime="133693593521855820"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\McAcpAx\McAcpAx.fun"
+    LogicalPath="Libraries.McAcpAx.McAcpAx.fun"
+    Type="File"
+    LastWriteTime="133693593521865825"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\McAcpAx\McAcpAx.var"
+    LogicalPath="Libraries.McAcpAx.McAcpAx.var"
+    Type="File"
+    LastWriteTime="133693593521875898"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\McAcpAx\McAcpAxCfg.typ"
+    LogicalPath="Libraries.McAcpAx.McAcpAxCfg.typ"
+    Type="File"
+    LastWriteTime="133693593521885899"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\CoTrace\binary.lby"
+    LogicalPath="Libraries.CoTrace"
+    Type="Library"
+    LastWriteTime="133694452232857916" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\CoTrace\CoTrace.fun"
+    LogicalPath="Libraries.CoTrace.CoTrace.fun"
+    Type="File"
+    LastWriteTime="133694452232831521"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\CoTrace\CoTrace.typ"
+    LogicalPath="Libraries.CoTrace.CoTrace.typ"
+    Type="File"
+    LastWriteTime="133694452232846456"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\CoTrace\CoTrace.var"
+    LogicalPath="Libraries.CoTrace.CoTrace.var"
+    Type="File"
+    LastWriteTime="133694452232857916"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\AsZip\binary.lby"
+    LogicalPath="Libraries.AsZip"
+    Type="Library"
+    LastWriteTime="133694452233268469" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\AsZip\AsZip.fun"
+    LogicalPath="Libraries.AsZip.AsZip.fun"
+    Type="File"
+    LastWriteTime="133694452233256545"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\AsZip\AsZip.typ"
+    LogicalPath="Libraries.AsZip.AsZip.typ"
+    Type="File"
+    LastWriteTime="133694452233256545"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\AsZip\AsZip.var"
+    LogicalPath="Libraries.AsZip.AsZip.var"
+    Type="File"
+    LastWriteTime="133694452233268469"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\FileIO\binary.lby"
+    LogicalPath="Libraries.FileIO"
+    Type="Library"
+    LastWriteTime="133694452233494623" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\FileIO\FileIO.fun"
+    LogicalPath="Libraries.FileIO.FileIO.fun"
+    Type="File"
+    LastWriteTime="133694452233454620"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\FileIO\FileIO.typ"
+    LogicalPath="Libraries.FileIO.FileIO.typ"
+    Type="File"
+    LastWriteTime="133694452233474625"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Libraries\FileIO\FileIO.var"
+    LogicalPath="Libraries.FileIO.FileIO.var"
+    Type="File"
+    LastWriteTime="133694452233484627"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Program\IEC.prg"
+    LogicalPath="Program"
+    Type="Program"
+    LastWriteTime="133693603379442521" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Program\Main.st"
+    LogicalPath="Program.Main.st"
+    Type="File"
+    LastWriteTime="133693624033215067"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Program\Types.typ"
+    LogicalPath="Program.Types.typ"
+    Type="File"
+    LastWriteTime="133693603379431536"
+    Private="true" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Logical\Program\Variables.var"
+    LogicalPath="Program.Variables.var"
+    Type="File"
+    LastWriteTime="133693639078538809"
+    Private="true" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\Config.pkg"
+    LogicalPath="Config1"
+    Type="Configuration.ParentUnknown"
+    LastWriteTime="133692713426138133" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\Hardware.hw"
+    LogicalPath="Config1.Hardware.hw"
+    Type="File"
+    LastWriteTime="133694437824540126"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\Hardware.hwl"
+    LogicalPath="Config1.Hardware.hwl"
+    Type="File"
+    LastWriteTime="133692762624055160"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\Cpu.pkg"
+    LogicalPath="Config1.X20CP0483"
+    Type="Cpu"
+    LastWriteTime="133694454800410681" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\Cpu.sw"
+    LogicalPath="Config1.X20CP0483.Cpu.sw"
+    Type="File"
+    LastWriteTime="133694452239184610"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\Cpu.per"
+    LogicalPath="Config1.X20CP0483.Cpu.per"
+    Type="File"
+    LastWriteTime="133692713399220821"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\IoMap.iom"
+    LogicalPath="Config1.X20CP0483.IoMap.iom"
+    Type="File"
+    LastWriteTime="133692713399231206"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\PvMap.vvm"
+    LogicalPath="Config1.X20CP0483.PvMap.vvm"
+    Type="File"
+    LastWriteTime="133692713399438781"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\Connectivity\Package.pkg"
+    LogicalPath="Config1.X20CP0483.Connectivity"
+    Type="Package"
+    LastWriteTime="133692713400148078" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\Connectivity\OpcUA\Package.pkg"
+    LogicalPath="Config1.X20CP0483.Connectivity.OpcUA"
+    Type="Package"
+    LastWriteTime="133692713400126051" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\Connectivity\OpcUaFx\Package.pkg"
+    LogicalPath="Config1.X20CP0483.Connectivity.OpcUaFx"
+    Type="Package"
+    LastWriteTime="133692713400148078" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\TextSystem\Package.pkg"
+    LogicalPath="Config1.X20CP0483.TextSystem"
+    Type="Package"
+    LastWriteTime="133692713400181691" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\UnitSystem\Package.pkg"
+    LogicalPath="Config1.X20CP0483.UnitSystem"
+    Type="Package"
+    LastWriteTime="133692713400356953" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\AccessAndSecurity\Package.pkg"
+    LogicalPath="Config1.X20CP0483.AccessAndSecurity"
+    Type="Package"
+    LastWriteTime="133692713400832477" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\AccessAndSecurity\UserRoleSystem\Package.pkg"
+    LogicalPath="Config1.X20CP0483.AccessAndSecurity.UserRoleSystem"
+    Type="Package"
+    LastWriteTime="133692713400591091" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\AccessAndSecurity\UserRoleSystem\Role.role"
+    LogicalPath="Config1.X20CP0483.AccessAndSecurity.UserRoleSystem.Role.role"
+    Type="File"
+    LastWriteTime="133692713400571023"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\AccessAndSecurity\UserRoleSystem\User.user"
+    LogicalPath="Config1.X20CP0483.AccessAndSecurity.UserRoleSystem.User.user"
+    Type="File"
+    LastWriteTime="133692713400581058"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\AccessAndSecurity\CertificateStore\Package.pkg"
+    LogicalPath="Config1.X20CP0483.AccessAndSecurity.CertificateStore"
+    Type="Package"
+    LastWriteTime="133692713400771542" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\AccessAndSecurity\CertificateStore\OwnCertificates\Package.pkg"
+    LogicalPath="Config1.X20CP0483.AccessAndSecurity.CertificateStore.OwnCertificates"
+    Type="Package"
+    LastWriteTime="133692713400666092" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\AccessAndSecurity\CertificateStore\OwnCertificates\Certificates\Package.pkg"
+    LogicalPath="Config1.X20CP0483.AccessAndSecurity.CertificateStore.OwnCertificates.Certificates"
+    Type="Package"
+    LastWriteTime="133692713400645557" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\AccessAndSecurity\CertificateStore\OwnCertificates\PrivateKeys\Package.pkg"
+    LogicalPath="Config1.X20CP0483.AccessAndSecurity.CertificateStore.OwnCertificates.PrivateKeys"
+    Type="Package"
+    LastWriteTime="133692713400666092" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\Package.pkg"
+    LogicalPath="Config1.X20CP0483.AccessAndSecurity.CertificateStore.ThirdPartyCertificates"
+    Type="Package"
+    LastWriteTime="133692713400715093" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\SoftwareCertificates\Package.pkg"
+    LogicalPath="Config1.X20CP0483.AccessAndSecurity.CertificateStore.ThirdPartyCertificates.SoftwareCertificates"
+    Type="Package"
+    LastWriteTime="133692713400715093" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\AccessAndSecurity\CertificateStore\CertificateRevocationLists\Package.pkg"
+    LogicalPath="Config1.X20CP0483.AccessAndSecurity.CertificateStore.CertificateRevocationLists"
+    Type="Package"
+    LastWriteTime="133692713400747881" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\AccessAndSecurity\CertificateStore\CertificateSigningRequests\Package.pkg"
+    LogicalPath="Config1.X20CP0483.AccessAndSecurity.CertificateStore.CertificateSigningRequests"
+    Type="Package"
+    LastWriteTime="133692713400771542" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\AccessAndSecurity\TransportLayerSecurity\Package.pkg"
+    LogicalPath="Config1.X20CP0483.AccessAndSecurity.TransportLayerSecurity"
+    Type="Package"
+    LastWriteTime="133692713400791550" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\AccessAndSecurity\Firewall\Package.pkg"
+    LogicalPath="Config1.X20CP0483.AccessAndSecurity.Firewall"
+    Type="Package"
+    LastWriteTime="133692713400832477" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\AccessAndSecurity\Firewall\Rules.firewallRules"
+    LogicalPath="Config1.X20CP0483.AccessAndSecurity.Firewall.Rules.firewallRules"
+    Type="File"
+    LastWriteTime="133692713400822479"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\mappControl\Package.pkg"
+    LogicalPath="Config1.X20CP0483.mappControl"
+    Type="Package"
+    LastWriteTime="133692713400867178" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\mappMotion\Package.pkg"
+    LogicalPath="Config1.X20CP0483.mappMotion"
+    Type="Package"
+    LastWriteTime="133693593485270070" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\mappMotion\Config_1.axis"
+    LogicalPath="Config1.X20CP0483.mappMotion.Config_1.axis"
+    Type="File"
+    LastWriteTime="133693602820133023"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\mappServices\Package.pkg"
+    LogicalPath="Config1.X20CP0483.mappServices"
+    Type="Package"
+    LastWriteTime="133692713401161132" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\mappSafety\Package.pkg"
+    LogicalPath="Config1.X20CP0483.mappSafety"
+    Type="Package"
+    LastWriteTime="133692713401364163" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\mappSafety\SafeApplication\Package.pkg"
+    LogicalPath="Config1.X20CP0483.mappSafety.SafeApplication"
+    Type="Package"
+    LastWriteTime="133692713401354132" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\mappSafety\SafeCommissioning\Package.pkg"
+    LogicalPath="Config1.X20CP0483.mappSafety.SafeCommissioning"
+    Type="Package"
+    LastWriteTime="133692713401364163" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\mappView\Package.pkg"
+    LogicalPath="Config1.X20CP0483.mappView"
+    Type="Package"
+    LastWriteTime="133692713401545741" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\mappVision\Package.pkg"
+    LogicalPath="Config1.X20CP0483.mappVision"
+    Type="Package"
+    LastWriteTime="133692713401779613" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\mappCockpit\Package.pkg"
+    LogicalPath="Config1.X20CP0483.mappCockpit"
+    Type="Package"
+    LastWriteTime="133694452220652399" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\X20CP0483\mappCockpit\Settings.mcocfg"
+    LogicalPath="Config1.X20CP0483.mappCockpit.Settings.mcocfg"
+    Type="File"
+    LastWriteTime="133694456128970719"
+    Private="false" />
+  <Object
+    Path="C:\Users\Rafael\Documents\AS\BancadaBR\Physical\Config1\Hardware.jpg"
+    LogicalPath="Config1.Hardware.jpg"
+    Type="File"
+    LastWriteTime="133692762624167706"
+    Private="false" />
+</Objects>
